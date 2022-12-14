@@ -13,17 +13,23 @@ body {
 }
 
 #box {
-  background-color: brown;
+  background-color: #ffffff;
   width: 35vw;
+  margin: 0 0 0 35vw;
+  padding: 1rem;
+  border-radius: 10px;
 }
 
-#box fieldset {
-  background-color: red;
-  width: 35vw;
+fieldset {
+  padding: 2rem;
+}
+
+.itens {
+  margin-top: 20px;
 }
 
 button {
-  background-color: #edede9;
+  background-color: #5ec08c;
   padding: 10px;
   border-radius: 4px;
   border: none;
@@ -33,4 +39,13 @@ button {
 
 button:hover {
   background-color: #FFFB7D;
+}
+
+#back {
+  background-color: #FFFB7D;
+  margin-left: 1rem;
+}
+
+#back:hover {
+  background-color: #5ec08c;
 }
