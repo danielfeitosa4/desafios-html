@@ -45,7 +45,7 @@ h1 {
   font-weight: 600;
   width: 200px;
   align-items: center;
-  box-shadow: 1px 1px 5px #000000;
+  box-shadow: 3px 1px 5px #000000;
 }
 
 #links a button:hover {
