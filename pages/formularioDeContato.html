@@ -4,42 +4,61 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="../css/formularioDeContato.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+
   <title>Formulário de contato</title>
 </head>
 <body>
-
-  <form action="">
-    <fieldset>
-      <legend>Entre em contato</legend>
-
-      <label for="subject">Assunto:</label>
-      <select name="subject" id="subject" required>
-        <option value="support">Suporte</option>
-        <option value="assistance">Assitência</option>
-        <option value="financial">Financeiro</option>
-        <option value="purchases">Compras</option>
-        <option value="you_doubt">Dúvidas</option>
-      </select>
-
-      <label for="name">Nome completo:</label>
-      <input type="text" name="name" id="name" placeholder="Seu nome" required>
-
-      <label for="email">E-mail:</label>
-      <input type="email" name="email" id="email" placeholder="email@seudominio.com" required>
-
-      <label for="message">Mensagem:</label>
-      <textarea name="message" id="message" cols="30" rows="10" placeholder="Digite sua mensagem" required></textarea>
-
-      <label for="check"></label>
-      <input type="checkbox" name="check" id="check">Aceito receber novidades por e-mail
-      
-
-      <button type="submit">Enviar</button>
-    </fieldset>
-  </form>
+  <div id=box">
+    <form action="">
+      <fieldset>
+        <legend>Entre em contato</legend>
+  
+        <div class="itens">
+          <label for="subject">Assunto:</label>
+          <select name="subject" id="subject" required>
+            <option value="support">Suporte</option>
+            <option value="assistance">Assitência</option>
+            <option value="financial">Financeiro</option>
+            <option value="purchases">Compras</option>
+            <option value="you_doubt">Dúvidas</option>
+          </select>
+        </div>
+  
+        <div class="itens">
+          <label for="name">Nome completo:</label>
+          <input type="text" name="name" id="name" placeholder="Seu nome" required>
+        </div>
+  
+        <div class="itens">
+          <label for="email">E-mail:</label>
+          <input type="email" name="email" id="email" placeholder="email@seudominio.com" required>
+        </div>
+  
+        <div class="itens">
+          <label for="message">Mensagem:</label>
+          <textarea name="message" id="message" cols="30" rows="10" placeholder="Digite sua mensagem" required></textarea>
+        </div>
+  
+        <div class="itens">
+          <label for="check"></label>
+          <input type="checkbox" name="check" id="check">Aceito receber novidades por e-mail
+        </div>
+  
+        <button type="submit">Enviar</button>
+      </fieldset>
+    </form>
+  </div>
 
   <a href="../index.html">
-    <p>Página inicial</p>
+    <button>Página inicial</button>
   </a>
 
 </body>
