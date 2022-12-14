@@ -4,6 +4,15 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="../css/listaDeCompras.css">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+
   <title>Lista de compras</title>
 </head>
 <body>
@@ -11,31 +20,33 @@
   <h1>Minha lista de compras</h1>
   <hr>
 
-  <ul>
-    <li>
-      <label for=""></label>
-      <input type="checkbox" name="item_comprado" id="leite" value="Leite" checked>
-      <label for="">Leite</label>
-    </li>
+  <div id="content">
+    <ul>
+      <li>
+        <label for=""></label>
+        <input type="checkbox" name="item_comprado" id="leite" value="Leite" checked>
+        <label for="leite">Leite</label>
+      </li>
 
-    <li>
-      <input type="checkbox" name="item_comprado" id="ovos" value="Ovos">
-      <label for="">Ovos</label>
-    </li>
+      <li>
+        <input type="checkbox" name="item_comprado" id="ovos" value="Ovos">
+        <label for="ovos">Ovos</label>
+      </li>
 
-    <li>
-      <input type="checkbox" name="item_comprado" id="pao" value="Pao">
-      <label for="">Pão</label>
-    </li>
+      <li>
+        <input type="checkbox" name="item_comprado" id="pao" value="Pao">
+        <label for="pao">Pão</label>
+      </li>
 
-    <li>
-      <input type="checkbox" name="item_comprado" id="farinha" value="Farinha">
-      <label for="">Farinha</label>
-    </li>
-  </ul>
+      <li>
+        <input type="checkbox" name="item_comprado" id="farinha" value="Farinha">
+        <label for="farinha">Farinha</label>
+      </li>
+    </ul>
+  </div>
 
   <a href="../index.html">
-    <p>Página inicial</p>
+    <button>Página inicial</button>
   </a>
   
 </body>
