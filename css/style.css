@@ -25,6 +25,8 @@ h1 {
   border-radius: 10px;
   text-align: center;
   margin: 3rem auto;
+  border: 1px solid #85FFBD;
+  box-shadow: 15px 25px 20px #000000;
 }
 
 #links a {
@@ -34,13 +36,16 @@ h1 {
 #links a button {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   background-color: #edede9;
   padding: 10px;
   margin: 2rem auto;
   border-radius: 4px;
   border: none;
   cursor: pointer;
+  font-weight: 600;
+  width: 200px;
+  align-items: center;
+  box-shadow: 1px 1px 5px #000000;
 }
 
 #links a button:hover {

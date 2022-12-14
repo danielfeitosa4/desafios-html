@@ -10,6 +10,13 @@ body {
   font-family: 'Kanit', sans-serif;
 }
 
+dl {
+  background-color: #ffffff;
+  width: 450px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
 button {
   background-color: #edede9;
   padding: 10px;
