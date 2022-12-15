@@ -2,7 +2,7 @@
 ---
 <h1 align="center">Desafios HTML</h1>
 
-<h1 align="center"> <img src="https://avatars.githubusercontent.com/u/49321593?v=4"/> </h1>
+<h1 align="center"> <img src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Fimages%2Fdiscover%2Fchallenges%2Fhtml-challenge.png&w=384&q=75"/> </h1>
 
 ## Descrição do Projeto
 <p align="center">🚀 Desafios de HTML na trilha Discover na Rocketseat 🚀</p>
