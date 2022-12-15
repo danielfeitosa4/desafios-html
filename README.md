@@ -13,7 +13,7 @@ Feito com ❤️ por Daniel Feitosa 👋🏽 Entre em contato!
 
 
 <a href="https://github.com/danielfeitosa4">
-<img style = "border-radius: 50%;" src = "imagens/EU.jpg" width = "100px;" alt = "" />
+<img style = "border-radius: 50%;" src = "https://avatars.githubusercontent.com/u/49321593?v=4" width = "100px;" alt = "" />
  <br />
  <sub> <b> Daniel Feitosa </b> </sub> </a> <a href="https://github.com/danielfeitosa4" title="Daniel"> 🚀 </a>
 
