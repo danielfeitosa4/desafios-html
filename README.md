@@ -2,7 +2,7 @@
 ---
 <h1 align="center">Desafios HTML</h1>
 
-<h1 align="center"> <img src="https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Fimages%2Fdiscover%2Fchallenges%2Fhtml-challenge.png&w=384&q=75"/> </h1>
+<h1 align="center"> <img src="https://media.istockphoto.com/id/1304548840/es/foto/ventana-de-codificaci%C3%B3n.jpg?s=612x612&w=0&k=20&c=JWTS5KRdUjSRucBWwCKnZQN1mw2aFXcqFpyrUOJOf-w="/> </h1>
 
 ## Descrição do Projeto
 <p align="center">🚀 Desafios de HTML na trilha Discover na Rocketseat 🚀</p>
