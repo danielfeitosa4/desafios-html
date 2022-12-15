@@ -5,9 +5,11 @@
 <h1 align="center"> <img src="https://media.istockphoto.com/id/1304548840/es/foto/ventana-de-codificaci%C3%B3n.jpg?s=612x612&w=0&k=20&c=JWTS5KRdUjSRucBWwCKnZQN1mw2aFXcqFpyrUOJOf-w="/> </h1>
 
 ## Descrição do Projeto
-<p align="center">🚀 Desafios de HTML na trilha Discover na Rocketseat 🚀</p>
+<p align="left">🚀 Desafios de HTML na trilha Discover na Rocketseat 🚀</p>
 
-<p align="center"> Menu de desafios que ajudam a construir melhor sua estrutura HTML.</p>
+<p align="left"> Essa é uma série de desafios básicos para que você possa praticar seus conhecimentos em HTML. Teste suas habilidades nas tags HTML mais utilizadas no dia a dia do Desenvolvimento Web.
+
+</p>
 
 Feito com ❤️ por Daniel Feitosa 👋🏽 Entre em contato!
 
@@ -19,7 +21,7 @@ Feito com ❤️ por Daniel Feitosa 👋🏽 Entre em contato!
 
  MIT License
 
-Copyright (c) <2020> <'Daniel Feitosa'>
+Copyright (c) <2022> <'Daniel Feitosa'>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
