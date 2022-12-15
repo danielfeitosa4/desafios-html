@@ -2,7 +2,7 @@
 ---
 <h1 align="center">Desafios HTML</h1>
 
-<h1 align="center"> <img src="C:\Users\daniel.gama\Documents\desafios-html\images\PNG\listaDeDesafios.PNG"/> </h1>
+<h1 align="center"> <img src="../images/PNG/listaDeDesafios.PNG"/> </h1>
 
 ## Descrição do Projeto
 <p align="center">🚀 Desafios de HTML na trilha Discover na Rocketseat 🚀</p>
